@@ -4,7 +4,7 @@ A small iOS prototype demonstrating an educational concept app centered around a
 
 ## Demo
 
-[Watch the demo video](YOUR_VIDEO_LINK)
+https://github.com/user-attachments/assets/803463db-9fd6-4aa8-9827-d657549a58ae
 
 ## What it demonstrates
 
